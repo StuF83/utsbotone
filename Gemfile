@@ -2,6 +2,4 @@
 
 source "https://rubygems.org"
 
-gem 'sc2ai'
-
-
+gem "sc2ai"
